@@ -18,3 +18,4 @@
 1. 5월: git과 github
 	* https://www.slideshare.net/JungHoonLee41/5-git-github
 2. 6월: AWS로 개인서버 구축하기
+	* https://www.slideshare.net/JungHoonLee41/6-aws
